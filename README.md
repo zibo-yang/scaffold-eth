@@ -1,4 +1,4 @@
-#static build site
+# static build site
 checkout the outcome through the following URL:
 fearless-fire.surge.sh
 
