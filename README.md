@@ -1,3 +1,7 @@
+#static build site
+checkout the outcome through the following URL:
+fearless-fire.surge.sh
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
