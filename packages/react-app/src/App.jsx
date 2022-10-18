@@ -319,6 +319,22 @@ function App(props) {
                 and give you a form to interact with it locally
             */}
 
+          {/* test */}
+          {/* <Button
+              onClick={() => {
+                console.log("start button function");
+                writeContracts.YourContract.setPurpose("hello scaffold-eth");
+                console.log("end button function");
+              }}
+              size="large"
+              shape="round"
+            >
+              <span style={{ marginRight: 8 }} role="img" aria-label="support">
+                💬
+              </span>
+              hello scaffold-eth
+            </Button> */}
+
           <Contract
             name="YourContract"
             price={price}
